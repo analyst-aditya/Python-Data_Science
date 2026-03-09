@@ -35,5 +35,4 @@ The main goal of this repository is to:
 
 📌 Author
 
-Aditya Kumar
-Aspiring Data Analyst
+Aditya Kumar (Aspiring Data Analyst)
